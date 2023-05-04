@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "password": "password1"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "password": "password2"
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "email": "bobjohnson@example.com",
+        "password": "password3"
+      },
+      {
+        "name": "kelly",
+        "email": "kellyronny985@gmail.com",
+        "password": "000000",
+        "id": 4
+      },
+      {
+        "name": "Ronny",
+        "email": "james1munyua@gmail.com",
+        "password": "9999",
+        "id": 5
+      },
+      {
+        "name": "Ronny",
+        "email": "james1munyua@gmail.com",
+        "password": "9999",
+        "id": 6
+      }
+    ]
+  }
